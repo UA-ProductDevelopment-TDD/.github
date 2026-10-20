@@ -16,7 +16,6 @@ Tools made for this course. Start here if you are a student.
 | 🐕 | **[Bittle Studio](https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio)** | Design, simulate and send motions to the Bittle: a motion timeline, a 3D physics simulation (PyBullet) and a Bluetooth console for the real robot. Runs on your own computer. |
 | 🎮 | **[Bittle Link](https://ua-productdevelopment-tdd.github.io/Bittle_Studio/bittle-link/)** | The robot console from Bittle Studio, in your browser: connect over Bluetooth, drive gaits, play skills. Nothing to install (Chrome or Edge). |
 | 🧩 | **[Bittle URDF](https://github.com/UA-ProductDevelopment-TDD/Bittle_URDF)** | A simulation-ready URDF model of the Bittle X, prepared for physics simulators. |
-| 🎙️ | **[Bittle Commander](https://github.com/UA-ProductDevelopment-TDD/Bittle_AI_voice)** | Control the Bittle X from the browser, by buttons or a voice conversation with AI. |
 | ⚙️ | **[OpenCat ESP32 firmware](https://github.com/UA-ProductDevelopment-TDD/OpenCatEsp32-Quadruped-Robot)** | Our fork of Petoi's open-source firmware for the BiBoard (ESP32), the Bittle X's controller. |
 
 ## 🚀 Projects 2026–2027
