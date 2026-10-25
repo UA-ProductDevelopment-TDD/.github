@@ -18,7 +18,7 @@ Tools made for this course. Start here if you are a student.
 | 🧩 | **[Bittle URDF](https://github.com/UA-ProductDevelopment-TDD/Bittle_URDF)** | A simulation-ready URDF model of the Bittle X, prepared for physics simulators. |
 | ⚙️ | **[OpenCat ESP32 firmware](https://github.com/UA-ProductDevelopment-TDD/OpenCatEsp32-Quadruped-Robot)** | Our fork of Petoi's open-source firmware for the BiBoard (ESP32), the Bittle X's controller. |
 
-## 🚀 Projects 2026–2027
+## 🚀 Student projects 2026–2027
 
 | Team | Project |
 |---|---|
@@ -30,7 +30,7 @@ Tools made for this course. Start here if you are a student.
 | [Groep 6](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_6) | Product development project of team 6 |
 | [Groep 7](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_7) | Upgrading an open-source robot |
 
-## 📚 Projects 2025–2026
+## 📚 Student projects 2025–2026
 
 | Team | Project | Picture |
 |---|---|---|
