@@ -1,4 +1,4 @@
-<img src="bittle.gif" alt="The Petoi Bittle robot dog trotting, rendered from Bittle Studio's 3D model" width="200" align="right">
+<img src="bittle.gif" alt="Bittle Studio's 3D model of the Petoi Bittle trotting toward the camera, then sitting up and waving hello" width="200" align="right">
 
 # Product Development · Technology-Driven Design
 
