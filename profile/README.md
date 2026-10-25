@@ -22,13 +22,13 @@ Tools made for this course. Start here if you are a student.
 
 | Team | Project |
 |---|---|
-| [Groep 1](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_1) | *Starting* |
-| [Groep 2](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_2) | An extension for the Bittle, built by three sub-teams |
-| [Groep 3](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_3) | *Starting* |
-| [Groep 4](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_4) | *Starting* |
-| [Groep 5](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_5) | *Starting* |
-| [Groep 6](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_6) | Product development project of team 6 |
-| [Groep 7](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_7) | Upgrading an open-source robot |
+| [Groep 1](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_1) | *Coming soon* |
+| [Groep 2](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_2) | *Coming soon* |
+| [Groep 3](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_3) | *Coming soon* |
+| [Groep 4](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_4) | *Coming soon* |
+| [Groep 5](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_5) | *Coming soon* |
+| [Groep 6](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_6) | *Coming soon* |
+| [Groep 7](https://github.com/UA-ProductDevelopment-TDD/2026_Groep_7) | *Coming soon* |
 
 ## 📚 Student projects 2025–2026
 
