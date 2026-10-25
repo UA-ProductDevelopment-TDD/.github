@@ -34,10 +34,10 @@ Tools made for this course. Start here if you are a student.
 
 | Team | Project | Picture |
 |---|---|---|
-| [Groep 1](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_1) | The team's code for the robot |  |
-| [Groep 2](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_2) | **RobotDawg**: web-based control with a HUD, real-time vision AI and a radar system | <img src="teams/2025-groep-2.jpg" alt="Renders of the RobotDawg Bittle with its disc shooter" width="160"> |
+| [Groep 1](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_1) | The team's code for the robot | <img src="teams/2025-groep-1.jpg" alt="The team's Bittle in sunglasses and a black coat, flanked by two bodyguards" width="160"> |
+| [Groep 2](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_2) | **RobotDawg**: web-based control with a HUD, real-time vision AI and a radar system | <img src="teams/2025-groep-2.jpg" alt="The RobotDawg Bittle in camouflage paint" width="160"> |
 | [Groep 3](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_3) | **Bumblebee**: turning the Bittle into a transformer, with code, hardware and a control UI | <img src="teams/2025-groep-3.jpg" alt="The Bumblebee Bittle in robot form" width="160"> |
-| [Groep 4](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_4) | **Bittle Day Planner**: a web app that links your tasks to robot behaviour (Web Serial) |  |
+| [Groep 4](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_4) | **Bittle Day Planner**: a web app that links your tasks to robot behaviour (Web Serial) | <img src="teams/2025-groep-4.jpg" alt="The team's Bittle dressed as an elephant" width="160"> |
 | [Groep 5](https://github.com/UA-ProductDevelopment-TDD/2025_Groep_5) | Building the Petoi Bittle yourself, from 3D-printed parts | <img src="teams/2025-groep-5.jpg" alt="The team's 3D-printed Bittle dressed as a dog, on a leash" width="160"> |
 
 ---
